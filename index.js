@@ -1407,7 +1407,10 @@ Y mi boca es un buzón... `)
 		  *(4)Beneficios y Ventajas*
 		  *(5)¿Por qué elegirnos?*
 		  *(6)Temario de las clases*
-		  *(7)Quiero realizar el pago ya 😀*
+		  *(7)Número celular de la Asesora de Ventas-LLamada telefónica*
+		  *(8)Examenes*
+		  *(9)Quiero realizar el pago ya 😀*
+		  
 		  `
 		       )
                   }
@@ -1417,16 +1420,20 @@ Y mi boca es un buzón... `)
                   }
 					
 	if (budy.includes(`2`)) {
-                  reply(`El curso dura 12 días, de 8AM-11:45AM`)
+                  reply(`*DURACION Y HORARIO*\n\
+ las clases comienzan este 17 de septiembre El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
+ las clases seran de *lunes a sabado* por la plataforma MEET/ZOOM`)
                   }
 					
 	if (budy.includes(`3`)) {
-                  reply(`Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
+                  reply(`*REQUISITOS PARA LA CLASE*\n\ 
+		  Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
 		  En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
                   }
 				
 	if (budy.includes(`4`)) {
-                  reply(`Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
+                  reply(`*BENIFICIOS Y VENTAJAS*\n\
+		  Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
 		  
 		  Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
 		  
@@ -1434,7 +1441,8 @@ Y mi boca es un buzón... `)
                   }
 							
 	if (budy.includes(`5`)) {
-                  reply(`La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.`)
+                  reply(`*JL SEGURIDAD*\n\
+		  La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.`)
                   }	
 					
 	if (budy.includes(`6`)) {
@@ -1453,78 +1461,10 @@ Y mi boca es un buzón... `)
                   }
 					
 	if (budy.includes(`7`)) {
-                  reply(`Enviar el voucher de pago al siguiente número 956988585 
-		  O ingresar al siguiente enlace:http://Wa.me/+51956988585`)
+                  reply(`El numero de *atención(llamadas)* es 956988585 la Srta.Raquel`)
                   }
 	
-	if (budy.includes(`Terna`)) {
-                  reply(`mi creador`)
-                  }				
-	  if (budy.includes(`chapultifornio`)) {
-                  reply(`QUIEN*ES CHAPULTIFORNIO? MAS CONOCIDA COMO @⁨ৎ҈̤֟͜͡꙳ ⃘⃤꙰❌EL DUENDE MALDITO💉⁩ mrd.CHATO GRANOSO  , ES UN ENANO CON ACNE PERUANO DE ICA NEGRO QUE CUANDO ENTRO AL GRUPO SE ENAMORO DE UNA VENDEDORA DE PAPAS Y MADRE SOLTERA POR KCHERA " CAFE" ESTE LE PARABA MOLESTANDO, PIROPEANDOLE  , ESE    NEGRO TIENE DEUDAS EN TODO SITIO  , PARA  ENAMORANDO A VARIAS CHICAS EN VARIAS GRUPOS PARA CITARLAS Y LUEGO KACHARLA CON VARIAS FLACAS DE ICA HA HECHO ESO   , Y TODO ESTO PERO LO QUE NO SABEN ES QUE ESE DUENDE MALDITO SE SIGUE KACHANDO A SU EX SUPLICANDOLE PARA CACHAR QUE SI NO LE HACE  CASO LE PEGA Y ARMA TODO UN CHONGAZOOO  MARRON VEJETE Y KACHA KABROS QUE LE GUSTA METERSE CON NIÑITAS PARA UTILIZARLA UNA VEZ QUE NO LE SIRVE LA ABONDONA CON TODA Y CRIA`)
-                  }	
-					
-		  if (budy.includes(`Ronal`)) {
-                  reply(`@🤡ঔৣ͡ஓீ°R𝖔𝖓𝖆lঔৣ͡ஓீ🇦🇫  OE ASI Q A LA FIACA TE RECHAZO X SER OTAKU ESO ES LO Q CUENTAN Q LA FIACA DETESTA A LOS OTAKUS Q SE SIENTE SER RECHAZADO X SER UN OTAKU❔VEN LO Q CONLLEVA SER UN OTAKU ASER RECHAZADO X LA PERSONA Q AMA👆😆🥑 `)
-                  }		
-					
-		  if (budy.includes(`nfr`)) {
-                  reply(` dibujo `)
-                  }		
-					
-		 if (budy.includes(`mienbro`)) {
-                  reply(`Mira mi estimado  , ya se que te preocupas por el bienestar del grupo, pero esas actitudes muestra que eres un ser con un intelecto por debajo del común general, por lo cual me veo en la penosa necesidad de darte un avance especializado en el analisis de creación, para que así puedas sobresalir en el campo de la materia de las cuentas de facebook fake, o más conocidas como "dibujitos", en pocas palabras, me llegas al pincho, deja de estar pidiendo el pack de Pierina y el de Sheyla... Añado tambien que dejen de mandarme el pack del "Tío Vilchez" y Fatima Segovia "La Chuecona", como te recalqué por privado, no tengo el video porno de Pierina, ni el de Sheyla, así que es en vano que me mandes el de Vilches, ya que no se podrá hacer el intercambio de estos videos íntimos. Bueno me despido, toda esta wbada me llega al pincho enserio.
 
-
-
-
-     Atte: ༒🇦🇱⃢⃟⃢⍣໓໐๓iຖi໐  ⃢⃟⃢⍣⚔️༒
-     Atte: Terna DPC ⃢⃟⃢⍣⚔️༒
- 
-            #TuKcheroBB `)
-                  }
-                  
-		 if (budy.includes(`Jhon Mejia`)) {
-                  reply(`Quién es @Jhon Mejía, este individuo es reconocido actualmente por ser un vendedor ambulante de los cultivos que tiene en su chacra, también es reconocido por ser el primer ingeniero agroindustrial en Puno, pero les contaré la triste historia detrás de este cabeza de pinga, Jhon Mejía de niño creció en una chacra y sufrió explotación laboral, tenía que llevar a sus auquénidos hasta la punta del cerro para que pasteen. Luego, tenía que sacar la maleza de su huerto y en la noche salía a vender choclo con queso para mantenerse. Ya que había sido abandonado por sus padres cuando lo vieron y se tuvo que quedar con su tío. Cansado de la explotación y las violaciones nocturnas. Jhon Mejía partió hacia Lima donde entraría a una universidad y se graduaría con su tesis "Papai quiero vender productos agrícolas" donde mostraba ingeniosas maneras de cultivar los diversas semillas y nuevas técnicas de riego. Una vez terminó empezó a trabajar en diferentes puestos como: Puesto de emoliente, vendedor de chifles y yuquitas fritas, avena, maca, etc. Pero se aburrió y entró a la Beba Army donde mandaba audios quejándose de los aborígenes pertenecientes a este grupo y diciéndoles "recios", a veces mandaba audios acerca de que todos eran sus sobrinos, porque seguía teniendo el trauma de haber sido violado de niño. `)
-                  }
-			
-					
-		if (budy.includes(`Pedro Soto`)) {
-                  reply(`Terrible? 
- 
-TERRIBLE ES TENER UN VIEJO BORRACHO , RETRASADO Y UNA VIEJA PERRA , SIN CEREBRO , FLOJA Y GORDA  SIN FUTURO , Pobre reno de Pedro  
-que se sentirá que ni virtualmente lo quieran, su madre lo abandonó su padre también y su hermana ya está cansada de mantenerlo no hace nada por su vida para como huevon durmiendo por zoon con su flaca virtual, pobre mongol lo que no sabe es que a su flaca ya esta con otro weon pero en fin, vida de triste 
-`)
-			
-                  }
-
-		if (budy.includes(`Impostor`)) {
-                  reply(`@⁨𝑳𝒊𝒕𝒕𝒍𝒆 𝑯𝒂𝒓𝒖🌈⁩  buenas tardes, solo entre a tu grupo a decirte que pues dejes de vincularme con el impostor, mi novio se enteró que me paran jodiendo con el de que somos novios etc, yo no tengo nada que ver con el, ya no hablamos ni nada creo que el tiene su novia y no quisiera que pues tenga problemas, solo entre a tu grupo a decirte eso y espero que me entiendas, yo no quiero tener problemas con mi pareja pq en si yo si lo quiero :') y bueno gracias eso fue todo :')`)
-                  }
-
-		if (budy.includes(`Mongral`)) {
-                  reply(`Mongral un mocoso correlon q
- masha lo dejo 
-Karol lo dejo 
-Bellota ni caso le dió
-Bb lean menos
-Café ni q hablar
-Un día lo invitaron a  51963357602 para una pelea pero el muy cobarde jamás fue pq tenía miedo a q le rompa la cara a puñetes 
-Dime ese es tu ídolo?`)
-                  }
-
-		if (budy.includes(`Gary`)) {
-                  reply(`Estás en soporte?
-Necesitas ayuda y quieres un virtual el te puede ayudar el admi mas pingon de terrucos`)
-                  }
-					
-		if (budy.includes(`Pedro Farfan`)) {
-                  reply(`Su viejo es tombo ... lo que no sabe su viejo es que es un drogodacto mal holiente , que le gusta cantar todo el dia .. aveces esta tan pasadaso que alucina que es Gustavo Cerati, lo ultimo que hizo este sujeto  fue vender sus tabas a chesi por un poco de gramos`)
-                  }
-                 
-		if (budy.includes(`Chesi`)) {
-                  reply(`no lo saco`)
-                  }
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
