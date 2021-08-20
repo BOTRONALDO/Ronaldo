@@ -1453,7 +1453,16 @@ La empresa tiene 20 años de fundación en la cual hemos brindado clases virtual
 	if (budy.includes(`7`)) {
                   reply(`El numero de *atención(llamadas)* es 956988585 la Srta.Raquel`)
                   }
-	
+					
+     	  
+	if (budy.includes(`8`)) {
+                  reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen`)}  	  
+
+	if (budy.includes(`9`)) {
+                  reply( `Numero de cuenta para realizar el pago\n\ 
+*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*
+Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\ `) }
+
 
        if (budy.startsWith(`La toca 7w7`)) {
         const none = fs.readFileSync('./anishan/anime5.mp3');
