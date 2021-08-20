@@ -1399,7 +1399,7 @@ La figura no me ayuda
 Y mi boca es un buzón... `)
                   }
 	
-		 if (budy.includes(`Hola`)) {
+		 if (budy.includes(``)) {
                   reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
 		  *(1)Precio:*
 		  *(2)Duración y Horario*
@@ -1427,38 +1427,28 @@ Y mi boca es un buzón... `)
 					
 	if (budy.includes(`3`)) {
                   reply(`*REQUISITOS PARA LA CLASE*\n\ 
-		  Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
-		  En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
+Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
+En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
                   }
 				
 	if (budy.includes(`4`)) {
                   reply(`*BENIFICIOS Y VENTAJAS*\n\
-		  Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
+Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
 		  
-		  Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
+Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
 		  
-		  Una vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
+Una vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
                   }
 							
 	if (budy.includes(`5`)) {
                   reply(`*JL SEGURIDAD*\n\
-		  La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.`)
+La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.`)
                   }	
 					
 	if (budy.includes(`6`)) {
-                  reply(`-Constitución y Derechos Humanos
-		         -Ética y Seguridad Privada
-			 -Legislación y Seguridad Privada
-			 -Redacción y elaboración de Documentos
-			 -Normas y procedimientos de Seguridad
-			 -Control de Emergencias y Seguridad de Instalaciones
-			 -Atención al Cliente e identificación de Personas
-			 -Defensa Personal
-			 -Conocimiento de Sistemas de Alarmas
-			 -Primeros Auxilios
-			 -Conocimiento y manipulación de Armas
-		          `)
-                  }
+                  reply(`*LOS TEMAS QUE SE DESARALLORAN*\n\
+-Constitución y Derechos Humanos\n\-Ética y Seguridad Privada\n\-Legislación y Seguridad Privada\n\-Redacción y elaboración de Documentos\n\-Normas y procedimientos de Segurida\n\-Control de Emergencias y Seguridad de Instalaciones\n\-Atención al Cliente e identificación de Personas\n\-Defensa Personal\n\-Conocimiento de Sistemas de Alarmas\n\-Primeros Auxilios\n\-Conocimiento y manipulación de Armas\n\
+ `)}
 					
 	if (budy.includes(`7`)) {
                   reply(`El numero de *atención(llamadas)* es 956988585 la Srta.Raquel`)
