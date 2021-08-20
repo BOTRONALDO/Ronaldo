@@ -1416,7 +1416,8 @@ Y mi boca es un buzón... `)
                   }
 			
 	if (budy.includes(`1`)) {
-                  reply(`El precio es de S/130 soles el cual incluye el certificado digital.`)
+                  reply(`*PRECIO*
+El precio es de S/130 soles el cual incluye el certificado digital.`)
                   }
 					
 	if (budy.includes(`2`)) {
@@ -1426,9 +1427,8 @@ Y mi boca es un buzón... `)
                   }
 					
 	if (budy.includes(`3`)) {
-                  reply(`*REQUISITOS PARA LA CLASE*\n\ 
-Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
-En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
+                  reply(`*REQUISITOS PARA LA CLASE*\n\  
+Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)`)
                   }
 				
 	if (budy.includes(`4`)) {
